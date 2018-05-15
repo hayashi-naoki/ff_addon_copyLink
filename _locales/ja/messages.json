@@ -1,0 +1,20 @@
+{
+  "extensionName": {
+    "message": "Copy Link",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "コンテキストメニューからクリップボードにHTMLリンクまたは、テキストリンクを作成します。",
+    "description": "Description of the add-on."
+  },
+  "notifyTitle" : {
+    "message": "Copy Link"
+  },
+  "notifyMessage" : {
+    "message": "クリップボードにリンクを作成しました"
+  },
+
+  "contextMenuText" : {
+    "message": "リンクを作成"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "extensionName": {
+    "message": "Copy Link",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Make HTML link or text link from the context menu.",
+    "description": "Description of the add-on."
+  },
+  "notifyTitle" : {
+    "message": "Copy Link"
+  },
+  "notifyMessage" : {
+    "message": "Link created on clipboard"
+  },
+
+  "contextMenuText" : {
+    "message": "Create link"
+  }
+}

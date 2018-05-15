@@ -1,0 +1,1 @@
+zip -r -FS ./copyLink.zip * -x make.sh '*.zip' 'scripts*' 'copyLink*' /icons/._icon-add-60.png

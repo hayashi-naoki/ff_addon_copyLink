@@ -1,0 +1,24 @@
+{
+  "applications": {
+    "gecko": {
+      "strict_min_version": "55.0a2"
+    }
+  },
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
+  "version": "1.0.1",
+  "background": {
+    "scripts": ["js/background.js"]
+  },
+  "permissions": [
+    "activeTab",
+    "contextMenus",
+    "clipboardWrite",
+    "notifications"
+  ],
+  "icons": {
+    "60": "icons/icon-add-60.png"
+  }
+}
